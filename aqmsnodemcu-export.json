@@ -1,0 +1,17 @@
+{
+  "AppHost" : {
+    "AppTest" : "45"
+  },
+  "Host1" : {
+    "Humidity" : 49.0,
+    "Temperature" : 24.0
+  },
+  "Host2" : {
+    "Humidity2" : "0",
+    "Temperature2" : 0
+  },
+  "Host3" : {
+    "CO" : 147.0,
+    "Status" : 1.0
+  }
+}
